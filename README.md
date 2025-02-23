@@ -26,8 +26,8 @@ Hello, I'm Ronit. Computer Science student with expertise in data analysis and r
 ### 🛠️ Tools
 
 - Language: SQL, Python
-- Database: Oracle, PostgreSQL, MySQL
-- Visualization: Tableau, PowerBI, Spotfire
+- Database: MySQL
+- Visualization: Excel, PowerBI,
 
 ### 👋🏻 Connect with Me
 
