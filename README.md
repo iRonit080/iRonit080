@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**iRonit080/iRonit080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ronittomar/ronittomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+
 -->
+
+Hello, I'm Ronit. Computer Science student with expertise in data analysis and reporting.
+- Querying data using SQL.
+- Developing dashboards on PowerBi
+- Data analysis and reporting using Google Sheets and Excel.
+
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: Oracle, PostgreSQL, MySQL
+- Visualization: Tableau, PowerBI, Spotfire
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/ronittomar101)
